@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "Configurateur de bagage",
+  "short_name": "Bagage",
+  "description": "Ce qu'il faut emporter pour votre voyage, posé sur une table en bois.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2e9d8",
+  "theme_color": "#e3c99b",
+  "icons": [
+    {
+      "src": "icons/icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icone-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "orientation": "any",
+  "categories": [
+    "travel",
+    "lifestyle"
+  ]
+}
